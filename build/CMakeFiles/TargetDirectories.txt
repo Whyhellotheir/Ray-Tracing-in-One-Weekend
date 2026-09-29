@@ -1,0 +1,3 @@
+C:/Users/jayce/OneDrive/Desktop/RayTracing/build/CMakeFiles/RayTracing.dir
+C:/Users/jayce/OneDrive/Desktop/RayTracing/build/CMakeFiles/edit_cache.dir
+C:/Users/jayce/OneDrive/Desktop/RayTracing/build/CMakeFiles/rebuild_cache.dir

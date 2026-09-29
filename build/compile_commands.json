@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/jayce/OneDrive/Desktop/RayTracing/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\RayTracing.dir\\main.cc.obj -c C:\\Users\\jayce\\OneDrive\\Desktop\\RayTracing\\main.cc",
+  "file": "C:/Users/jayce/OneDrive/Desktop/RayTracing/main.cc",
+  "output": "CMakeFiles/RayTracing.dir/main.cc.obj"
+}
+]
