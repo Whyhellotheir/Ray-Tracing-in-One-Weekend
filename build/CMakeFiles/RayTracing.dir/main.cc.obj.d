@@ -136,4 +136,9 @@ CMakeFiles/RayTracing.dir/main.cc.obj: \
  C:/msys64/mingw64/include/c++/16.1.0/bits/ostream_print.h \
  C:/msys64/mingw64/include/c++/16.1.0/bits/ostream.tcc \
  C:/msys64/mingw64/include/c++/16.1.0/istream \
- C:/msys64/mingw64/include/c++/16.1.0/bits/istream.tcc
+ C:/msys64/mingw64/include/c++/16.1.0/bits/istream.tcc \
+ C:\Users\jayce\OneDrive\Desktop\RayTracing\vec3.h \
+ C:/msys64/mingw64/include/c++/16.1.0/cmath \
+ C:/msys64/mingw64/include/math.h \
+ C:\Users\jayce\OneDrive\Desktop\RayTracing\color.h \
+ C:\Users\jayce\OneDrive\Desktop\RayTracing\ray.h
