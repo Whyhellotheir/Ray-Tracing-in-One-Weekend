@@ -69,6 +69,7 @@ CMakeFiles/RayTracing.dir/main.cc.obj: C:/Users/jayce/OneDrive/Desktop/RayTracin
   C:/msys64/mingw64/include/c++/16.1.0/cctype \
   C:/msys64/mingw64/include/c++/16.1.0/cerrno \
   C:/msys64/mingw64/include/c++/16.1.0/clocale \
+  C:/msys64/mingw64/include/c++/16.1.0/cmath \
   C:/msys64/mingw64/include/c++/16.1.0/cstdio \
   C:/msys64/mingw64/include/c++/16.1.0/cstdlib \
   C:/msys64/mingw64/include/c++/16.1.0/cwchar \
@@ -118,6 +119,7 @@ CMakeFiles/RayTracing.dir/main.cc.obj: C:/Users/jayce/OneDrive/Desktop/RayTracin
   C:/msys64/mingw64/include/limits.h \
   C:/msys64/mingw64/include/locale.h \
   C:/msys64/mingw64/include/malloc.h \
+  C:/msys64/mingw64/include/math.h \
   C:/msys64/mingw64/include/process.h \
   C:/msys64/mingw64/include/pthread.h \
   C:/msys64/mingw64/include/pthread_compat.h \
@@ -144,7 +146,10 @@ CMakeFiles/RayTracing.dir/main.cc.obj: C:/Users/jayce/OneDrive/Desktop/RayTracin
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/limits.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mm_malloc.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h \
-  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/syslimits.h
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/syslimits.h \
+  C:/Users/jayce/OneDrive/Desktop/RayTracing/color.h \
+  C:/Users/jayce/OneDrive/Desktop/RayTracing/ray.h \
+  C:/Users/jayce/OneDrive/Desktop/RayTracing/vec3.h
 
 
 C:/msys64/mingw64/include/sys/types.h:
@@ -175,6 +180,8 @@ C:/msys64/mingw64/include/_mingw_off_t.h:
 
 C:/msys64/mingw64/include/c++/16.1.0/bits/erase_if.h:
 
+C:/msys64/mingw64/include/c++/16.1.0/cmath:
+
 C:/msys64/mingw64/include/_mingw_stat64.h:
 
 C:/msys64/mingw64/include/c++/16.1.0/backward/binders.h:
@@ -188,6 +195,8 @@ C:/msys64/mingw64/include/c++/16.1.0/bits/stl_iterator.h:
 C:/msys64/mingw64/include/c++/16.1.0/bits/basic_ios.h:
 
 C:/msys64/mingw64/include/c++/16.1.0/bits/basic_ios.tcc:
+
+C:/msys64/mingw64/include/math.h:
 
 C:/msys64/mingw64/include/c++/16.1.0/bits/utility.h:
 
@@ -434,3 +443,9 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mm_malloc.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/syslimits.h:
+
+C:/Users/jayce/OneDrive/Desktop/RayTracing/color.h:
+
+C:/Users/jayce/OneDrive/Desktop/RayTracing/ray.h:
+
+C:/Users/jayce/OneDrive/Desktop/RayTracing/vec3.h:
